@@ -1,4 +1,4 @@
-Recurrent Returns: How RNNs can be used to improve momentum strategies
+# Recurrent Returns: How RNNs can be used to improve momentum strategies
 1. Notebook 1: A HMM was built to detect bull/bear regimes in SPX
 2. Notebook 2: A base long-short momentum strategy was built and tested against an RNN and LSTM prediction model (see below)
 
